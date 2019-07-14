@@ -1,0 +1,6 @@
+
+`squid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8œÊÓß²-
+fsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8öºËß²-
+|squid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(‘ÆÜ‚ûÿÿÿÿ8ÙóÁß²-
+[squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¯ÙÍß²-
+esquid:UselessImportCheck"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8¦ÜÀß²-
