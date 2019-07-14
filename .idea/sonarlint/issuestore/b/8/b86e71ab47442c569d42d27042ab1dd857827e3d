@@ -1,19 +1,0 @@
-
-S
-squid:S106"9Replace this use of System.out or System.err by a logger.(À®ù8¡”ì²-
-Msquid:S1481",Remove this unused "greater" local variable.(ğÓÎøÿÿÿÿ8¡”ì²-
-Gsquid:S1481"+Remove this unused "isSwap" local variable.(ÛÛ•8Ç¬ì²-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÉºÕùÿÿÿÿ8¡”ì²-
-Wsquid:S1854";Remove this useless assignment to local variable "greater".(€²¾ú8¡”ì²-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(…ùŸàıÿÿÿÿ8¡”ì²-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(‡ éÔøÿÿÿÿ8¡”ì²-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ù©‘œùÿÿÿÿ8¡”ì²-
-Jsquid:S1481".Remove this unused "isReverse" local variable.(»…¬ú8¡”ì²-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(…ùŸàıÿÿÿÿ8¡”ì²-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(…ùŸàıÿÿÿÿ8¡”ì²-

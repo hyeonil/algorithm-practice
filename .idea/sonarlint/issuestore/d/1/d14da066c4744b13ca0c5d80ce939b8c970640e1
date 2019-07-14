@@ -1,11 +1,0 @@
-
-Lsquid:S1172"+Remove this unused method parameter "data".(‘Àâ¾üÿÿÿÿ8¢ºúÖ³-
-Dsquid:S1481"(Remove this unused "map" local variable.(—İ€…8¢ºúÖ³-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÎÏßİıÿÿÿÿ8¢ºúÖ³-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¢ºúÖ³-
-]squid:UselessImportCheck"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8ÿşÕ³-
-Ssquid:S1854"7Remove this useless assignment to local variable "map".(—İ€…8¢ºúÖ³-
-Vsquid:S1118":Add a private constructor to hide the implicit public one.(ë½ç÷8îİ’Õ³-
-nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(µåÂÃ8áÃ¼Ö³-
